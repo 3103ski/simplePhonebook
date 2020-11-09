@@ -1,0 +1,15 @@
+.Text {
+	margin: 0;
+}
+
+.ListItem {
+	list-style: none;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border: solid 1px #ffffffd9;
+	background-color: #ffffffd9;
+	padding: 4px 10px;
+	margin-bottom: 5px;
+	border-radius: 5px;
+}

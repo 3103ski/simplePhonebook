@@ -1,0 +1,28 @@
+.PhoneBookContainer {
+	background-color: rgb(189 189 189 / 85%);
+	padding: 20px;
+	border-radius: 15px;
+	border: solid 2px #636766;
+}
+
+.Title {
+	color: white;
+	text-transform: uppercase;
+	text-align: center;
+	border-bottom: solid;
+	margin-bottom: 15px;
+}
+
+.List {
+	padding: 0;
+}
+
+.Input {
+	margin-bottom: 5px;
+	border-radius: 5px;
+}
+
+.InputContainer {
+	display: flex;
+	flex-direction: column;
+}
